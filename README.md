@@ -8,7 +8,7 @@ It focuses on building an **engaging, responsive, and beginner-friendly** sectio
 
 ## Live Demo
 **View the live project here:**  
-[Click to Visit Demo](https://yourusername.github.io/mozilla-club-frontend/)
+[Click to Visit Demo](https://deeptisingh27.github.io/frontend-section-design/)
 
 
 ---
@@ -42,7 +42,7 @@ It focuses on building an **engaging, responsive, and beginner-friendly** sectio
 ## How to Run
 1. **Download or clone** the repository:
    ```bash
-   git clone https://github.com/yourusername/mozilla-club-frontend.git
+   git clone https://github.com/deeptisingh27/frontend-section-design.git
    ```
 
 2. Open the folder in Visual Studio Code.
@@ -53,4 +53,3 @@ It focuses on building an **engaging, responsive, and beginner-friendly** sectio
 
 ## Author
 Deepti Singh
-Made with ❤ for Mozilla Firefox Club
